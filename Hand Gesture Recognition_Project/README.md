@@ -15,7 +15,7 @@
 
 
 必要なライブラリは以下のコマンドでインストールできます。
-pip install opencv-python mediapipe
+- pip install opencv-python mediapipe
 
 
 ## 機能
