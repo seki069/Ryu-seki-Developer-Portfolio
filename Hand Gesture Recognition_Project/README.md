@@ -19,7 +19,7 @@
 
 ## 実行例
 - result_image_1.png
-- result_image_1.png
+- result_image_2.png
 
 ## 機能
 - ウェブカメラから映像を取得し、リアルタイムで手のランドマークを検出します。
