@@ -9,7 +9,7 @@
 - **OpenCV**: 画像処理ライブラリ
 - **MediaPipe**: 動作解析用ライブラリ
 
-必要なライブラリは以下のコマンドでインストールできます。
+- 必要なライブラリは以下のコマンドでインストールできます。
 
 bash
 pip install opencv-python mediapipe
