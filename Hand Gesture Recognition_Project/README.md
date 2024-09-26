@@ -14,7 +14,8 @@
 - **Time**: Pythonの標準ライブラリ（FPS計算用）
 
 
-必要なライブラリは以下のコマンドでインストールできます。pip install opencv-python mediapipe
+必要なライブラリは以下のコマンドでインストールできます。
+pip install opencv-python mediapipe
 
 
 ## 機能
