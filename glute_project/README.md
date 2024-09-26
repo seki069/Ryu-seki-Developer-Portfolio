@@ -16,7 +16,7 @@ pip install opencv-python mediapipe
 
 
 ## 動画例
-- glute_bridge_demo.mp4
+- glute_demo.mp4
 
 ## 動画の実行例
 - Execution result_glute_demo.mp4
