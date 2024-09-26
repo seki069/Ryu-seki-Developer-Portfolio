@@ -1,1 +1,7 @@
+#glute_project
+
+Install necessary libraries
+-pip install opencv-python mediapipe
+
+-
 
