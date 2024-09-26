@@ -13,10 +13,9 @@
 - **Math**: Pythonの標準ライブラリ（角度計算用）
 - **Time**: Pythonの標準ライブラリ（FPS計算用）
 
-必要なライブラリは以下のコマンドでインストールできます。
 
-```bash
-pip install opencv-python mediapipe
+必要なライブラリは以下のコマンドでインストールできます。pip install opencv-python mediapipe
+
 
 ## 機能
 ウェブカメラから映像を取得し、リアルタイムで手のランドマークを検出します。
