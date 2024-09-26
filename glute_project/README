@@ -1,7 +1,16 @@
-#glute_project
+# Glute Project
 
-Install necessary libraries
--pip install opencv-python mediapipe
+## 概要
+このプロジェクトでは、OpenCVとMediaPipeを使用して、動画ファイルを処理し、グルートブリッジ（大臀筋のトレーニング）デモを行います。
+プログラムは動画内の動きを解析し、結果を可視化します。
 
--
+## 必要なライブラリ
+次のライブラリをインストールしてください:
 
+```bash
+pip install opencv-python mediapipe
+
+##動画例
+glute_bridge_demo.mp4
+##動画の実行例
+##動画例
