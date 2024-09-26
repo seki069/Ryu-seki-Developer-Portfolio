@@ -16,3 +16,6 @@
 
 ```bash
 pip install opencv-python pyzbar
+
+## 実行例
+result_image.png
