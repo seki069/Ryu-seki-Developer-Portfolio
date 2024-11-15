@@ -10,13 +10,18 @@ This guide provides step-by-step instructions to set up and run the Tutee Agent 
 ## Steps
 
 ### 1. Start MongoDB Database
-
 1. Open your terminal.
 2. Navigate to your MongoDB installation directory:
-   
-   ```bash
-   cd /Users/seki/Downloads/mongodb
-   cd bin
-   ./mongod --dbpath ../data/db
+   - ```bash
+     cd /Users/seki/Downloads/mongodb
+     ```
+3. Go to the `bin` directory:
+   - ```bash
+     cd bin
+     ```
+4. Start the MongoDB server with the following command:
+   - ```bash
+     ./mongod --dbpath ../data/db
+
 
 
