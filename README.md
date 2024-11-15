@@ -24,6 +24,9 @@ This guide provides step-by-step instructions to set up and run the Tutee Agent 
    - ```bash
      ./mongod --dbpath ../data/db
 
+5.開けない場合：mongodb―data―db(inside delete All file)
+
+
 ### 2. Start the Tutee Agent System
 1.open your new terminal
 2.Navigate to the Tutee Agent System directory:
