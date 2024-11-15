@@ -39,14 +39,16 @@ This guide provides step-by-step instructions to set up and run the Tutee Agent 
      chmod a+x ./set_google_app_creds.sh
      ```
 
-### 3. Start the Tutee Agent System
-Open a web browser and go to:
-http://localhost:3000 to access the main interface.
-http://localhost:3000/admin/reset_superadmin to reset the superadmin account.
+### 3. Access the Tutee Agent System
+ Open a web browser and go to:
+   - [http://localhost:3000](http://localhost:3000) to access the main interface.
+   - [http://localhost:3000/admin/reset_superadmin](http://localhost:3000/admin/reset_superadmin) to reset the superadmin account.
 
-### 3.Login
-Username: inolab
-Password: collablab
+### 4. Login
+
+- **Username**: `inolab`
+- **Password**: `collablab`
+
 
 
 
